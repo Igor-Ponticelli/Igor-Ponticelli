@@ -46,10 +46,10 @@ End-to-end web development for small businesses, scoping, building, and deliveri
 
 ## Featured Project
 
-**[RetrosDash](https://retrodash.vercel.app)**  
+**[RetrosDash](https://retrodash.com.br)**  
 A sprint retrospective platform for Agile teams, structured, collaborative, and built to help teams reflect and improve after each cycle.
 
-[retrodash.vercel.app](https://retrodash.vercel.app) · [github.com/Igor-Ponticelli/retrodash](https://github.com/Igor-Ponticelli/retrodash)
+[retrodash.com.br](https://retrodash.com.br) · [github.com/retrodash/retrodash](https://github.com/retrodash/retrodash)
 
 ---
 
